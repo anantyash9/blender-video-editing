@@ -1,0 +1,33 @@
+{
+    "visual_elements": [
+      {
+        "file_path": "D:\\workspace\\blender\\t3.png",
+        "type": "background",
+        "timestamp": [0.0, 5.0],
+        "media": "image",
+        "effects": []
+      },
+      {
+        "file_path": "D:\\workspace\\blender\\greenscreen.mp4",
+        "type": "main",
+        "timestamp": [2.0, 24.0],
+        "media": "video",
+        "effects": ["zoom_in"]
+      },
+      {
+        "file_path": "D:\\workspace\\blender\\t2.png",
+        "type": "overlay",
+        "timestamp": [12.0, 30.0],
+        "media": "image",
+        "effects": ["zoom_in"]
+      },
+      {
+        "file_path": "D:\\workspace\\blender\\t2.png",
+        "type": "background",
+        "timestamp": [5.0, 30.0],
+        "media": "image",
+        "effects": []
+      }
+    ]
+  }
+  
